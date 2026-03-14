@@ -9,7 +9,7 @@ APT_PACKAGES=()
 PIP_PACKAGES=()
 
 # Твой общий репозиторий с папками нод
-ALLNODES_REPO="${ALLNODES_REPO:-https://github.com/kmuhajfwof/allnodes2.git}"
+ALLNODES_REPO="${ALLNODES_REPO:-https://github.com/kmuhajfwof/ofm-factory.git}"
 ALLNODES_BRANCH="${ALLNODES_BRANCH:-main}"
 
 CLIP_MODELS=(
